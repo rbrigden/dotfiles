@@ -15,6 +15,9 @@ export PS1="\[\033[38;5;214m\]\u\[$(tput sgr0)\]\[\033[38;5;45m\]@\[$(tput sgr0)
 export PATH="$PATH:$GOPATH/bin"
 export GOPATH="$HOME/gocode"
 
+# ANACONDA
+export PATH=$HOME/anaconda/bin:$PATH
+
 # GIT
 alias git_log_color="git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative"
 
