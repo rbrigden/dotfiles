@@ -9,7 +9,7 @@ fi
 force_color_prompt=yes
 
 # PROMPT
-export PS1="\[\033[38;5;214m\]\u\[$(tput sgr0)\]\[\033[38;5;45m\]@\[$(tput sgr0)\]\[\033[38;5;215m\]\h\[$(tput sgr0)\]\[\033[38;5;15m\]{\[$(tput sgr0)\]\[\033[38;5;45m\]\W\[$(tput sgr0)\]\[\033[38;5;15m\]}\n\[$(tput sgr0)\]\[\033[38;5;206m\]>\[$(tput sgr0)\]\[\033[38;5;83m\]>\[$(tput sgr0)\]\[\033[38;5;39m\]>\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]"
+export PS1="\[\033[38;5;215m\]\u\[$(tput sgr0)\]\[\033[38;5;45m\]@\[$(tput sgr0)\]\[\033[38;5;215m\]\h\[$(tput sgr0)\]\[\033[38;5;15m\]{\[$(tput sgr0)\]\[\033[38;5;45m\]\W\[$(tput sgr0)\]\[\033[38;5;15m\]}\n\[$(tput sgr0)\]\[\033[38;5;206m\]>\[$(tput sgr0)\]\[\033[38;5;83m\]>\[$(tput sgr0)\]\[\033[38;5;39m\]>\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]"
 
 # GOLANG
 export PATH="$PATH:$GOPATH/bin"
