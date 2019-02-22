@@ -8,7 +8,7 @@ filetype off
 syntax on
 
 " For plugins to load correctly
-filetype plugin indent on
+"filetype plugin indent on
 
 " TODO: Pick a leader key
 " let mapleader = ","
@@ -32,9 +32,9 @@ set encoding=utf-8
 set wrap
 set textwidth=79
 set formatoptions=tcqrn1
-set tabstop=2
-set shiftwidth=2
-set softtabstop=2
+set tabstop=8
+set shiftwidth=4
+set softtabstop=4
 set expandtab
 set noshiftround
 

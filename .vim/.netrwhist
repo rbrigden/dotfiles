@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/Users/rbrigden/.vim'
 let g:netrw_dirhist_2='/Users/rbrigden/.vim/colorschemes'
 let g:netrw_dirhist_3='/Users/rbrigden/.vim/colorschemes/colors'
+let g:netrw_dirhist_4='/home/rbrigden/capstone/training'
+let g:netrw_dirhist_5='/home/rbrigden/capstone/training/speaker_classification'
