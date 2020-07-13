@@ -30,8 +30,6 @@ set encoding=utf-8
 
 " Whitespace
 set wrap
-set textwidth=79
-set formatoptions=tcqrn1
 set tabstop=8
 set shiftwidth=4
 set softtabstop=4
